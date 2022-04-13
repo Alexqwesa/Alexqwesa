@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alexqwesa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Dart/Flutter
+- 👋 Hi, I’m Savin Alexander Victorovich aka @Alexqwesa 
+- 👀 I’m interested in relocation to another country.
+- 🌱 I’m currently learning Dart/Flutter and German language.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://t.me/alexqwesa 
 
 <!---
 Alexqwesa/Alexqwesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
